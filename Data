@@ -1,4 +1,0 @@
-<script>start("/Users/jesusocariz/Github/TransactionsSecurity/Data/");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("labels_obf.csv","labels_obf.csv",0,28991,"28.3 kB",1739873875,"18/2/25, 10:17:55");</script>
-<script>addRow("transactions_obf.csv","transactions_obf.csv",0,8768912,"8.4 MB",1739873875,"18/2/25, 10:17:55");</script>
